@@ -1,9 +1,9 @@
 ### Hey! 👋 I'm Dylan.  
 Level 25 Computer Toucher
 
-🤖 CEO of Deep Sea Dogs Robotics Club.  
-♟️ Former Chess Club Captain.  
-📝 Tutor for CS, Mathematics, and Physics.  
+🤖 CEO of Deep Sea Dogs Robotics Club  
+♟️ Former Chess Club Captain  
+📝 Tutor for CS, Mathematics, and Physics  
 
 Passionate about problem-solving, software development, and just making cool stuff.
 
@@ -15,8 +15,8 @@ Passionate about problem-solving, software development, and just making cool stu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 ### 📌 What am I up to?
-**Academics:** Aiming for a BS in Computer Science  
-**Currently Learning:** Full-stack development & game dev with Godot  
+**Academics:** Aiming for a BS in Computer Science.  
+**Currently Learning:** Full-stack development & game dev with Godot.  
 **Building:** Project All Star: ROV for the MATE 2025 underwater ROV competition with my robotics club.  
 
 > _"Embrace the uncertainty; it is the fertile ground for growth."_  
