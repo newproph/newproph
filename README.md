@@ -1,5 +1,5 @@
 ### Hey! 👋 I'm Dylan.  
-Level 25 computer toucher.
+Level 25 Computer Toucher
 
 🤖 CEO of Deep Sea Dogs Robotics Club.  
 ♟️ Former Chess Club Captain.  
