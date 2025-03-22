@@ -18,6 +18,7 @@ Passionate about problem-solving, software development, and just making cool stu
 **Academics:** Aiming for a BS in Computer Science.  
 **Currently Learning:** Full-stack development & game dev with Godot.  
 **Building:** Project All Star: ROV for the MATE 2025 underwater ROV competition with my robotics club.  
+**Coding:** GET REAL: A weird RPG about gutter punks, magic portals, and crashing the economy. Things get worse fast.
 
 > _"Embrace the uncertainty; it is the fertile ground for growth."_  
 > \- Volition, *Disco Elysium*
